@@ -133,3 +133,6 @@ frontend/node_modules
 
 #mac os files
 .DS_Store
+
+#vscode files
+.vscode/
